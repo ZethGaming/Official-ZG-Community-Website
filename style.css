@@ -1,0 +1,88 @@
+/* Site Styles */
+
+.wrapper {
+  background-image: url('img/metal1.png');
+  background-repeat: no-repeat;
+  text-align: center;
+  background-attachment: fixed;
+  background-size: 1920px 115px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+
+body {
+  background-image: url('img/ZethBackround.png');
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+}
+
+h2 {
+  text-align: centre;
+  text-decoration: underline;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+}
+
+p4 {
+  text-align: center;
+}
+
+p1 {
+  margin: auto;
+  color: white;
+}
+
+/* discord Widget Styling */
+
+p5 {
+  text-align: right;
+  
+  
+}
